@@ -11,12 +11,12 @@ const teamData: TeamMember[] = [
     image: "/images/Gede Oke.png",
   },
   {
-    name: "Adit",
+    name: "Aditya Rizky Fajriansyah",
     role: "Machine Learning Engineer",
     image: "/images/Aditya.png",
   },
   {
-    name: "Faiq",
+    name: "Faiq Bangkit Wicaksono",
     role: "Full Stack Developer",
     image: "/images/faiq.png",
   },
